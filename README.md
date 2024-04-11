@@ -132,6 +132,10 @@ rc-update add docker
 docker run hello-world
 ```
 
+20. 为了防止重启后dns又被改掉，重新```setup-interfaces```，配置为静态IP，不要dhcp了
+
+21. 如果在宿主机（即termux）中通过ssh启动qemu，会话终止时虚拟机也会关闭，记得用screen保留会话
+
 # 有用的快捷键
 - ``Ctrl+a x``: 退出qemu虚拟机
 - ``Ctrl+a h``: 激活qemu控制台
