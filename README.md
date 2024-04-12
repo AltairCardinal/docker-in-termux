@@ -187,6 +187,7 @@ This article inspired from:
 - https://gist.github.com/oofnikj/e79aef095cd08756f7f26ed244355d62
 - https://github.com/cyberkernelofficial/docker-in-termux
 - https://github.com/AntonyZ89/docker-qemu-arm
+- https://stageguard.top/2019/08/15/run-docker-on-qemu-alpine/#%C2%B7-%E9%85%8D%E7%BD%AE%E7%BD%91%E7%BB%9C%EF%BC%9A
 
 
 
